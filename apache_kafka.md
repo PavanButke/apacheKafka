@@ -19,3 +19,12 @@
 ![with zookeper](image-1.png)
 -kraft controllers
 ![with kraft](image-2.png)
+
+## how kafka works in Background
+![workinh](image-4.png)
+
+- producer is collecting reqst to pack a batch
+- produces to broker
+- log of data is on disk / don't cache on broker
+- to match less writes
+- 
