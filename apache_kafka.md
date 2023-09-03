@@ -32,3 +32,4 @@
 - why would DBs get improved in terms of speed?
 - to reduce data structuring task
 - just throw the un-structured data 
+- kafka consumer processes raw unstructured data and stores in their high data set
