@@ -28,3 +28,5 @@
 - log of data is on disk / don't cache on broker
 - to match less writes
 - 
+## why do we need Kafka?
+- why would DBs get improved in terms of speed?
